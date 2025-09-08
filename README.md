@@ -30,6 +30,22 @@
 
    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/f7f1008f-19d8-4c2d-9d4a-7758fa942ead" />
 
+9. Run `terraform init` and `terraform apply`
+    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/a2edefec-841e-4644-bccc-baaafc830580" />
+
+    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/125285e8-a944-4063-b56d-da8ca2bf266a" />
+
+    <img width="1920" height="1008" alt="image" src="https://github.com/user-attachments/assets/db1035dc-6489-4af4-a663-17e24db66aec" />
+
+   10. Access the ec2 using the public ip and verify apache2 is installed
+       <img width="1920" height="827" alt="image" src="https://github.com/user-attachments/assets/e66cf06d-cec5-4711-8322-948636100410" />
+
+       <img width="1702" height="441" alt="image" src="https://github.com/user-attachments/assets/81089ba0-866c-4bc2-a874-bc58a468d8c2" />
+
+
+
+
+
 
    
 
